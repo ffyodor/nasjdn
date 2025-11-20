@@ -5,7 +5,7 @@
 
 
    <div align="center">
-   <img width=50% src="https://github.com/ffyodor/nasjdn/blob/main/Logo%20Musas%20Accesorios%20Minimalista%20Elegante%20(2).gif?raw=true"
+   <img width=100% src="https://github.com/ffyodor/nasjdn/blob/main/Logo%20Musas%20Accesorios%20Minimalista%20Elegante%20(2).gif?raw=true"
 	   </div>
      
   ##
